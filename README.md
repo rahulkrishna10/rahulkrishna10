@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulkrishna10
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development & Machine Learning
 - 🌱 I’m currently learning MERN Stack.
 
 <!---
